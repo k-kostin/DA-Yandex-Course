@@ -12,3 +12,5 @@
 
 **Задачи**:
 Анализ взаимодействий по темам, оценка активности источников, визуализация данных
+
+[Ссылка на дашборд](https://public.tableau.com/views/YDzenDashBoard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
