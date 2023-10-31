@@ -12,3 +12,7 @@
 
 **Задачи**:
 Разработка дашборда, визуализация данных, анализ сегментов пользователей, интерпретация результатов кластеризации
+
+[Ссылка на дашборд](https://public.tableau.com/app/profile/kirill5866/viz/FinalProject_YP/Dashboard1)
+
+[Ссылка на презентацию](https://disk.yandex.ru/i/FZPcIRKeXApxJA)
